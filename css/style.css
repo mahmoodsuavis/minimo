@@ -1,5 +1,29 @@
 body{
-    font-family: 'Playfair Display', serif;
+    
     font-family: 'Ubuntu', sans-serif;
 
+}
+
+/* Header */
+header{
+    padding: 1rem 0;
+}
+.bg-light{
+    background-color: #fff !important;
+}
+.nav-link{
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    color: #626262 !important;
+}
+.navbar-expand-sm .navbar-nav .nav-link{
+    padding: 0 3rem 0 0;
+}
+
+.bg-home{
+    width: 100%;
+    float: left;
+    background-image: url(../images/minimo_07.jpg);
+    height: 500px;
+    background-size: 100% 100%;
 }
