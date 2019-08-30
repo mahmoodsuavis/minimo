@@ -20,10 +20,39 @@ header{
     padding: 0 3rem 0 0;
 }
 
+
+/* START HOME */
+.padding-home{
+    float: left;
+    width: 100%;
+    padding: 0 50px;
+}
 .bg-home{
     width: 100%;
     float: left;
     background-image: url(../images/minimo_07.jpg);
     height: 500px;
     background-size: 100% 100%;
+}
+
+/* END HOME */
+.post-text{
+    float: left;
+    width: 100%;
+    padding: 50px 0;
+}
+.topheading{
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+h2{
+    font-family: 'Playfair Display';
+    color: #626262;
+}
+.paragraph-text{
+    color: #626262;
+    font-size: 14px;
+    padding-bottom: 30px;
+    font-family: 'Playfair Display';
 }
