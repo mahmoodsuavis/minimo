@@ -56,3 +56,73 @@ h2{
     padding-bottom: 30px;
     font-family: 'Playfair Display';
 }
+
+/* POST */
+
+.post{
+    float: left;
+    width: 100%;
+}
+
+
+/* Newsletter */
+
+.newsletter{
+    float: left;
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 50px 0;
+}
+.newsletter-form{
+    background-color: #f0f0f0;
+    border: 0;
+    border-bottom: 1px solid #626262;
+    border-radius: 0; 
+    font-family: 'Playfair Display';
+    color: #626262;
+}
+.btn-send{
+    border: 0;
+    border-bottom: 1px solid #626262;
+    border-radius: 0;
+    font-family: 'Playfair Display';
+    cursor: pointer;
+    color: #626262;
+}
+
+
+
+/* footer */
+
+footer{
+    float: left;
+    width: 100%;
+    padding: 0 50px;
+    background-color: #f0f0f0;
+}
+.footer-left{
+    padding: 0;
+    margin: 0;
+}
+.footer-left li{
+    display: inline-block;
+    list-style: none;
+    padding: 20px 10px;
+    font-family: 'Playfair Display';
+    color: #000;
+}
+.footer-right{
+    float: right;
+    padding: 0;
+    margin: 0;
+}
+.footer-right li{
+    display: inline-block;
+    list-style: none;
+    padding: 20px 10px;
+    font-family: 'Playfair Display'; 
+    colo
+}
+.footer-right li a{
+    color:#626262;
+}
